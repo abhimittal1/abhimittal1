@@ -51,8 +51,8 @@ I'm all about **learning**, **building**, and **sharing**, and my journey spans 
 ### 📫 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/abhishekmittal21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-mittal-baa084247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abhishekmittal24gold@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <!-- Add if you have a portfolio -->
   <!-- <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" /></a> -->
 </p>
