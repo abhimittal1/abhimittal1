@@ -42,8 +42,8 @@ I'm all about **learning**, **building**, and **sharing**, and my journey spans 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekmittal21&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekmittal21&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhimittal1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhimittal1&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
